@@ -60,7 +60,7 @@ header {
   justify-content: space-between;
   flex-shrink: 0;
   height: 32px;
-  max-width: 500px;
+  max-width: 320px;
   min-width: 200px;
   padding: 0 14px;
   flex-grow: 1;
